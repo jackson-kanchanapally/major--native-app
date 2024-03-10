@@ -10,9 +10,20 @@
   },
   "dependencies": {
     "expo": "~50.0.5",
+    "expo-device": "~5.9.3",
+    "expo-notifications": "~0.27.6",
     "expo-status-bar": "~1.11.1",
+    "firebase": "^10.8.1",
+    "i": "^0.3.7",
+    "native-base": "^3.4.28",
+    "native-notify": "^4.0.0",
+    "npx": "^10.2.2",
     "react": "18.2.0",
-    "react-native": "0.73.2"
+    "react-native": "0.73.2",
+    "react-native-push-notification": "^8.1.1",
+    "react-native-qrcode-svg": "^6.3.0",
+    "react-native-safe-area-context": "^3.3.2",
+    "react-native-svg": "^15.1.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"

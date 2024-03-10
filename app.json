@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Major",
-    "slug": "Major",
+    "slug": "pet-health-guardian",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "dc99060f-087a-4cae-a73e-f7db7de5ca41"
+      }
+    },
+    "owner": "jacksonmintu"
   }
 }
